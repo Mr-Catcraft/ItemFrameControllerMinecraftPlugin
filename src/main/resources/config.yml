@@ -1,0 +1,16 @@
+restricted-worlds:
+  - world
+  - custom_world
+
+prevent-rotation: true
+prevent-placing-items: true
+prevent-knocking-by-player: true
+prevent-knocking-by-entity: true
+prevent-placing-frames: true
+
+messages:
+  rotation: "Вы не можете вращать предметы в рамках в этом мире."
+  placing-items: "Вы не можете размещать предметы в рамках в этом мире."
+  knocking-by-player: "Вы не можете выбивать предметы из рамок в этом мире."
+  knocking-by-entity: "Сущности не могут выбивать предметы из рамок в этом мире."
+  placing-frames: "Вы не можете размещать рамки в этом мире."

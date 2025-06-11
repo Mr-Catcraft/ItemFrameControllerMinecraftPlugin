@@ -1,0 +1,4 @@
+name: ItemFrameControllerPlugin
+version: '${project.version}'
+main: org.mr_catcraft.itemframecontrollerplugin.ItemFrameControllerPlugin
+api-version: '1.20'
