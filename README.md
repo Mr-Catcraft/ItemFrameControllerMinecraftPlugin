@@ -1,4 +1,4 @@
-![Background](https://cdn.modrinth.com/data/cached_images/8b3c6021b616d2a90fe3691f2833b436065010a7.png)
+![Background](https://cdn.modrinth.com/data/2nQ7yAHS/images/02f29fd273ff8328d58c7cd2a9aeba102f25ef82.png)
 
 # ItemFrameController
 
