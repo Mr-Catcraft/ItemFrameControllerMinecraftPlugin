@@ -39,11 +39,6 @@ public class ItemFrameControllerPlugin extends JavaPlugin implements Listener {
         Bukkit.getPluginManager().registerEvents(this, this);
     }
 
-    @Override
-    public void onDisable() {
-        // Логика при выключении плагина
-    }
-
     private void loadConfiguration() {
         FileConfiguration config = getConfig();
         restrictedWorlds = config.getStringList("restricted-worlds");
@@ -104,7 +99,6 @@ public class ItemFrameControllerPlugin extends JavaPlugin implements Listener {
                 }
                 if (entity.getType() != EntityType.PLAYER && preventKnockingByEntity) {
                     event.setCancelled(true);
-                    // Сообщение для сущностей обычно не нужно, но можно добавить логику, если требуется.
                 }
             }
         }
