@@ -1,3 +1,5 @@
+![Background](https://cdn.modrinth.com/data/cached_images/8b3c6021b616d2a90fe3691f2833b436065010a7.png)
+
 # ItemFrameController
 
 **ItemFrameController** is a Minecraft plugin for Spigot/Paper 1.16.x - 1.21.1 that provides precise control over player interaction with item frames in specified worlds. It’s ideal for protecting custom builds, museum areas, adventure maps, or simply enhancing server security.
