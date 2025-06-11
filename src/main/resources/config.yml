@@ -9,8 +9,8 @@ prevent-knocking-by-entity: true
 prevent-placing-frames: true
 
 messages:
-  rotation: "Вы не можете вращать предметы в рамках в этом мире."
-  placing-items: "Вы не можете размещать предметы в рамках в этом мире."
-  knocking-by-player: "Вы не можете выбивать предметы из рамок в этом мире."
-  knocking-by-entity: "Сущности не могут выбивать предметы из рамок в этом мире."
-  placing-frames: "Вы не можете размещать рамки в этом мире."
+  rotation: "§cYou cannot rotate item frames in this world!"
+  placing-items: "§cYou cannot place items into item frames here!"
+  knocking-by-player: "§cYou cannot break item frames here!"
+  knocking-by-entity: "§cEntities cannot destroy item frames here!"
+  placing-frames: "§cYou cannot place item frames in this world!"
