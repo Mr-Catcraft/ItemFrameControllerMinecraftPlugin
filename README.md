@@ -18,7 +18,8 @@ The plugin uses a YAML configuration file with the following structure:
 ```yaml
 restricted-worlds:
   - world
-  - world_nether
+  - custom_world
+
 prevent-rotation: true
 prevent-placing-items: true
 prevent-knocking-by-player: true
